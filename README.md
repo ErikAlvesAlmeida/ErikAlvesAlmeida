@@ -45,4 +45,6 @@ Graduando em Ciência da Computação pela UFCG e Técnico em Informática pelo 
   </a>
 </div>
 
+##
+
 ![Snake animation](https://github.com/ErikAlvesAlmeida/ErikAlvesAlmeida/blob/output/github-contribution-grid-snake.svg)

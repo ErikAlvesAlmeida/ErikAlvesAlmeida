@@ -13,7 +13,7 @@ Graduando em Ciência da Computação pela UFCG e Técnico em Informática pelo 
 <br>
 <br>
 
-##
+## Minha Stack atual:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
@@ -27,9 +27,12 @@ Graduando em Ciência da Computação pela UFCG e Técnico em Informática pelo 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-plain.svg" height="40" alt="Clojure" />
 </div>
 
-##
+## Contate-me por aqui:
+
 
 <div align="left">
   <a href="https://www.instagram.com/_erik.almeida/" target="_blank">
@@ -44,6 +47,11 @@ Graduando em Ciência da Computação pela UFCG e Técnico em Informática pelo 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/>
   </a>
 </div>
+
+##
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ErikAlvesAlmeida&theme=Radical)
+
 
 ##
 

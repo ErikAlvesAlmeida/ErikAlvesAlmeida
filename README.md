@@ -28,7 +28,7 @@ Graduando em Ciência da Computação pela UFCG e Técnico em Informática pelo 
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-plain.svg" height="40" alt="Clojure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-line.svg" height="40" alt="Clojure" />
 </div>
 
 ## Contate-me por aqui:

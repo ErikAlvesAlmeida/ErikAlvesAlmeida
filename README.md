@@ -2,16 +2,6 @@
 Graduando em Ciência da Computação pela UFCG e Técnico em Informática pelo IFPE.
 
 <br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErikAlvesAlmeida&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikAlvesAlmeida&layout=compact&theme=radical" />
-  </a>
-</div>
-<br>
-<br>
 
 ## Minha Stack atual:
 
